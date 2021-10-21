@@ -4,6 +4,6 @@ I was born in Georgia but only lived there for a few months as my family was mov
 ![Picture of Downtown Columbia](https://www.ccis.edu/-/media/www/images/shared-images/headers/downtown-columbia-mobile-jpg.ashx?la=en&hash=7454C08C169DF922D96505E3FF4090D8)
 
 - [Home Page](https://github.com/LoganCockrell/midtermProject/edit/main/README.md)
-- [Education & Work]()
-- [Hobbies]()
-- [Fun facts!]()
+- [Education & Work](https://github.com/LoganCockrell/midtermProject/blob/main/educationWork.md)
+- [Hobbies](https://github.com/LoganCockrell/midtermProject/blob/main/hobbies.md)
+- [this is a page filled exclusively with capybara images on my computer (WARNING: there are a lot.)](https://github.com/LoganCockrell/midtermProject/blob/main/capys.md)
