@@ -5,7 +5,7 @@ I enjoy playing video games, hanging out with friends and working with computers
 
 ![White Castle Computer](https://user-images.githubusercontent.com/91173802/138213762-d6a9e58b-043e-429b-9c4a-bb34950c7b1f.jpg)
 
-- [Home Page]()
-- [Growing Up]()
-- [Education & Work]()
-- [Fun facts!]()
+- [Home Page](https://github.com/LoganCockrell/midtermProject/blob/main/README.md)
+- [Growing Up](https://github.com/LoganCockrell/midtermProject/blob/main/growingUp.md)
+- [Education & Work](https://github.com/LoganCockrell/midtermProject/blob/main/educationWork.md)
+- [this is a page filled exclusively with capybara images on my computer (WARNING: there are a lot.)](https://github.com/LoganCockrell/midtermProject/blob/main/capys.md)
