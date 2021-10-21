@@ -24,7 +24,7 @@
 ![Capybara HD Wallpapers (1)](https://user-images.githubusercontent.com/91173802/138218861-c311f73e-0976-4959-823d-75916121cb21.jpg)
 ![capybara](https://user-images.githubusercontent.com/91173802/138218862-ff8f2e5b-3a76-476c-b8bd-147c205e272d.jpg)
 
-- [Home Page](https://github.com/LoganCockrell/midtermProject/edit/main/README.md)
+- [Home Page](https://github.com/LoganCockrell/midtermProject/blob/main/README.md)
 - [Growing up](https://github.com/LoganCockrell/midtermProject/blob/main/growingUp.md)
 - [Education & Work](https://github.com/LoganCockrell/midtermProject/blob/main/educationWork.md)
 - [Hobbies](https://github.com/LoganCockrell/midtermProject/blob/main/hobbies.md)
