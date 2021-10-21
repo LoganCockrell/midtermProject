@@ -14,10 +14,10 @@ At Rock Bridge I began developing an interest for the IT field by taking some co
 
 I am working at Gravity right now as an iOS technician.
 
-- [Home Page]()
-- [Growing Up]()
-- [Hobbies]()
-- [Fun facts!]()
+- [Home Page](https://github.com/LoganCockrell/midtermProject/blob/main/README.md)
+- [Growing Up](https://github.com/LoganCockrell/midtermProject/blob/main/growingUp.md)
+- [Hobbies](https://github.com/LoganCockrell/midtermProject/blob/main/hobbies.md)
+- [this is a page filled exclusively with capybara images on my computer (WARNING: there are a lot.)](https://github.com/LoganCockrell/midtermProject/blob/main/capys.md)
 
 ```
 #include <iostream>
